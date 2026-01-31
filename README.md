@@ -2,14 +2,14 @@
 ---
 the repository i have made above is all about HTML form tag
 in the above projects i have used the '<form>' tag and created the form with the help of it.
-##The information is must be filled in as follows:
+##The information is must be filled in as follows:##
 -Full name
 -email
 -password
 -date
 -time
 **Its preety easy to use**
-###following is the code of how to add a name box in form tag
+###following is the code of how to add a name box in form tag###
 '''<form>
 <label for="inputfullname">Enter full Name:</label>
 <input type="text" id="inputfullname"/>
@@ -30,5 +30,5 @@ add **passowrd** the type will be type="password" and if we wanna add **email** 
 <input type="text" id="inputfullname"/>
 </form>'''
 ---
-#THANKYOU
+#THANKYOU#
 thats all for the project!!!
