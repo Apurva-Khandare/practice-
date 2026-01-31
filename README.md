@@ -8,7 +8,7 @@ The information is must be filled in as follows:
 3.password,
 4.date,
 5.time.
-**Its preety easy to use**
+** Its preety easy to use **
 following is the code of how to add a name box in form tag
 '''HTML
 <form>
