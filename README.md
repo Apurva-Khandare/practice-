@@ -8,22 +8,22 @@ The information is must be filled in as follows:
 3.password,
 4.date,
 5.time.
-** Its preety easy to use **
+Its preety easy to use
 following is the code of how to add a name box in form tag
-'''HTML
+```HTML
 <form>
 <label for="inputfullname">Enter full Name:</label>
 <input type="text" id="inputfullname"/>
-</form>'''
+</form>```
 
  the name we  enter was in a text form so type="text" was added but if we wanna 
 add passowrd the type will be type="password" and if we wanna add email the type will be type="email"and if wanna add Date and Time it will be type="date" type="time"
 *THE CODE FOR PASSWORD IS AS:*
 -Password
 HTML
-"""<form>
+```<form>
 <label for="inputfullname">Enter full Name:</label>
 <input type="text" id="inputfullname"/>
-</form>"""
+</form>```
 #THANKYOU#
 thats all for the project!!!
