@@ -1,16 +1,17 @@
 #Basic form of HTML
 ---
 the repository i have made above is all about HTML form tag
-in the above projects i have used the '<form>' tag and created the form with the help of it.
+in the above projects i have used the form tag and created the form with the help of it.
 ##The information is must be filled in as follows:##
--Full name
--email
--password
--date
--time
+1.Full name
+2.email
+3.password
+4.date
+5.time
 **Its preety easy to use**
 ###following is the code of how to add a name box in form tag###
-'''<form>
+'''HTML
+<form>
 <label for="inputfullname">Enter full Name:</label>
 <input type="text" id="inputfullname"/>
 </form>'''
@@ -20,12 +21,14 @@ add **passowrd** the type will be type="password" and if we wanna add **email** 
 ---
 *THE CODE FOR PASSWORD, EMAIL IS AS:*
 -Password
-'''<form>
+''' HTML
+<form>
 <label for="inputfullname">Enter full Name:</label>
 <input type="text" id="inputfullname"/>
 </form>'''
 -Email
-'''<form>
+''' HTML
+<form>
 <label for="inputfullname">Enter full Name:</label>
 <input type="text" id="inputfullname"/>
 </form>'''
