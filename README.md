@@ -15,15 +15,17 @@ following is the code of how to add a name box in form tag··
 <label for="inputfullname">Enter full Name:</label>
 <input type="text" id="inputfullname"/>
 </form>
+```
 
 the name we  enter was in a text form so type="text" was added but if we wanna 
 add passowrd the type will be type="password" and if we wanna add email the type will be type="email"and if wanna add Date and Time it will be type="date" type="time"
 ## THE CODE FOR PASSWORD IS AS:
 -Password
-HTML
+```HTML
 <form>
 <label for="inputfullname">Enter full Name:</label>
 <input type="text" id="inputfullname"/>
 </form>
+```
 #THANKYOU#
 thats all for the project!!!
