@@ -27,5 +27,5 @@ add passowrd the type will be type="password" and if we wanna add email the type
 <input type="text" id="inputfullname"/>
 </form>
 ```
-#THANKYOU#
+# THANKYOU
 thats all for the project!!!
